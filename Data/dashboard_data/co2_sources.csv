@@ -1,0 +1,119 @@
+,country,source,amount
+0,Argentina,cement,201.576
+1,Argentina,coal,541.647
+2,Argentina,flaring,182.536
+3,Argentina,gas,2970.459
+4,Argentina,luc,13327.324
+5,Argentina,oil,4740.281
+6,Australia,cement,194.196
+7,Australia,coal,10343.382
+8,Australia,flaring,300.027
+9,Australia,gas,2154.456
+10,Australia,luc,13743.041
+11,Australia,oil,5863.383
+12,Brazil,cement,782.059
+13,Brazil,coal,2489.596
+14,Brazil,flaring,455.172
+15,Brazil,gas,1329.302
+16,Brazil,luc,113726.633
+17,Brazil,oil,11446.671
+18,Canada,cement,375.247
+19,Canada,coal,9714.966
+20,Canada,flaring,627.008
+21,Canada,gas,8278.287
+22,Canada,luc,38536.598
+23,Canada,oil,15031.196
+24,China,cement,15657.812
+25,China,coal,187073.406
+26,China,flaring,68.488
+27,China,gas,7162.012
+28,China,luc,59697.332
+29,China,oil,34491.543
+30,European Union (27),cement,6111.417
+31,European Union (27),coal,160617.672
+32,European Union (27),flaring,757.666
+33,European Union (27),gas,32963.621
+34,European Union (27),luc,24070.062
+35,European Union (27),oil,91426.812
+36,France,cement,699.426
+37,France,coal,19078.953
+38,France,flaring,171.551
+39,France,gas,3663.175
+41,France,oil,15350.882
+42,Germany,cement,1206.607
+43,Germany,coal,64665.84
+44,Germany,flaring,93.574
+45,Germany,gas,7177.258
+46,Germany,luc,303.233
+47,Germany,oil,19852.715
+48,India,cement,2624.326
+49,India,coal,37018.082
+50,India,flaring,181.82
+51,India,gas,2482.897
+52,India,luc,44758.105
+53,India,oil,14798.263
+54,Indonesia,cement,686.729
+55,Indonesia,coal,4039.848
+56,Indonesia,flaring,423.946
+57,Indonesia,gas,2515.501
+58,Indonesia,luc,80720.711
+59,Indonesia,oil,7267.839
+60,Italy,cement,949.116
+61,Italy,coal,4734.375
+62,Italy,flaring,95.916
+63,Italy,gas,5507.859
+64,Italy,luc,2298.097
+65,Italy,oil,13635.771
+66,Japan,cement,2005.37
+67,Japan,coal,24175.926
+68,Japan,flaring,15.542
+69,Japan,gas,7061.825
+70,Japan,luc,5388.242
+71,Japan,oil,33153.129
+72,Mexico,cement,699.265
+73,Mexico,coal,1521.83
+74,Mexico,flaring,550.35
+75,Mexico,gas,4356.04
+76,Mexico,luc,16391.197
+77,Mexico,oil,13460.022
+78,Russia,cement,1659.174
+79,Russia,coal,45571.473
+80,Russia,flaring,1486.447
+81,Russia,gas,35054.215
+82,Russia,luc,99041.836
+83,Russia,oil,33219.816
+84,Saudi Arabia,cement,560.302
+86,Saudi Arabia,flaring,942.124
+87,Saudi Arabia,gas,5033.217
+88,Saudi Arabia,luc,156.636
+89,Saudi Arabia,oil,10170.182
+90,South Africa,cement,254.392
+91,South Africa,coal,18534.971
+92,South Africa,flaring,0.498
+93,South Africa,gas,196.254
+94,South Africa,luc,7383.144
+95,South Africa,oil,2478.984
+96,South Korea,cement,959.549
+97,South Korea,coal,8357.433
+98,South Korea,flaring,0.124
+99,South Korea,gas,2083.7
+100,South Korea,luc,260.913
+101,South Korea,oil,7314.663
+102,Turkey,cement,912.679
+103,Turkey,coal,4629.728
+104,Turkey,flaring,5.581
+105,Turkey,gas,1780.385
+106,Turkey,luc,6654.63
+107,Turkey,oil,3870.462
+108,United Kingdom,cement,523.547
+109,United Kingdom,coal,56850.594
+110,United Kingdom,flaring,290.455
+111,United Kingdom,gas,7183.232
+112,United Kingdom,luc,1322.704
+113,United Kingdom,oil,13545.631
+114,United States,cement,2795.831
+115,United States,coal,175444.984
+116,United States,flaring,2421.253
+117,United States,gas,78542.547
+118,United States,luc,124390.891
+119,United States,oil,161275.016
